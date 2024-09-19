@@ -3,7 +3,7 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
+Albert Anesu Chimbi
 Web developer
 
 Show Contacts
